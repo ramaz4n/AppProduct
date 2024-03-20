@@ -1,0 +1,45 @@
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Shared.deps.json
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Shared.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Shared.pdb
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Models.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Models.pdb
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.csproj.AssemblyReference.cache
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.AssemblyInfoInputs.cache
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.AssemblyInfo.cs
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.csproj.CopyComplete
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\obj\Debug\net5.0\ref\AppProduct.Shared.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.pdb
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Shared\obj\Debug\net5.0\refint\AppProduct.Shared.dll
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Shared.deps.json
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Shared.dll
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\bin\Debug\net5.0\ref\AppProduct.Shared.dll
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Shared.pdb
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Models.dll
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Models.pdb
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.AssemblyInfo.cs
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.csproj.CopyComplete
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.dll
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\obj\Debug\net5.0\ref\AppProduct.Shared.dll
+C:\Users\user\Desktop\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.pdb
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Shared.deps.json
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Shared.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Shared.pdb
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Models.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\bin\Debug\net5.0\AppProduct.Models.pdb
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.csproj.AssemblyReference.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.AssemblyInfoInputs.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.AssemblyInfo.cs
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProdu.545E7BBB.Up2Date
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\obj\Debug\net5.0\refint\AppProduct.Shared.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\obj\Debug\net5.0\AppProduct.Shared.pdb
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Shared\obj\Debug\net5.0\ref\AppProduct.Shared.dll

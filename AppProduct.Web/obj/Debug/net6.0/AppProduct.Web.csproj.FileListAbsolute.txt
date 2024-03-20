@@ -1,0 +1,67 @@
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\bin\Debug\net6.0\appsettings.json
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Web.staticwebassets.runtime.json
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Web.exe
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Web.deps.json
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Web.runtimeconfig.json
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Web.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Web.pdb
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.csproj.AssemblyReference.cache
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.AssemblyInfoInputs.cache
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.AssemblyInfo.cs
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.RazorAssemblyInfo.cache
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.RazorAssemblyInfo.cs
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\scopedcss\bundle\AppProduct.Web.styles.css
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\scopedcss\projectbundle\AppProduct.Web.bundle.scp.css
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\refint\AppProduct.Web.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.pdb
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.genruntimeconfig.cache
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\ref\AppProduct.Web.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Models.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Shared.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Models.pdb
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Shared.pdb
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.csproj.CopyComplete
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Web.staticwebassets.runtime.json
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Web.exe
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Web.deps.json
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Web.runtimeconfig.json
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Web.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Web.pdb
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Models.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Shared.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Models.pdb
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\bin\Debug\net6.0\AppProduct.Shared.pdb
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.csproj.AssemblyReference.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.AssemblyInfoInputs.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.AssemblyInfo.cs
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.RazorAssemblyInfo.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.RazorAssemblyInfo.cs
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\staticwebassets\msbuild.AppProduct.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.AppProduct.Web.props
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AppProduct.Web.props
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AppProduct.Web.props
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\scopedcss\bundle\AppProduct.Web.styles.css
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\scopedcss\projectbundle\AppProduct.Web.bundle.scp.css
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProdu.9D766B8C.Up2Date
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\refint\AppProduct.Web.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.pdb
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\AppProduct.Web.genruntimeconfig.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Web\obj\Debug\net6.0\ref\AppProduct.Web.dll

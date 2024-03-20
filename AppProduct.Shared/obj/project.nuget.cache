@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TXeBAfmuI0EVccJ+bci7UYWTQMyOg3TQBVl7PQEzwHvHfhmVMXMYXQyGDwo/ObntZ3Uja23R6bGyTnCyw5KiHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ramazan Abdullaev\\Desktop\\C#\\AppProduct\\AppProduct.Shared\\AppProduct.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramazan Abdullaev\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ramazan Abdullaev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ramazan Abdullaev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Models\bin\Debug\net5.0\AppProduct.Models.deps.json
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Models\bin\Debug\net5.0\AppProduct.Models.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Models\bin\Debug\net5.0\AppProduct.Models.pdb
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.csproj.AssemblyReference.cache
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.AssemblyInfoInputs.cache
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.AssemblyInfo.cs
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Models\obj\Debug\net5.0\ref\AppProduct.Models.dll
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.pdb
+D:\Программирование\Проекты по программированию\C#(22-23)\AppProduct\AppProduct.Models\obj\Debug\net5.0\refint\AppProduct.Models.dll
+C:\Users\user\Desktop\AppProduct\AppProduct.Models\bin\Debug\net5.0\AppProduct.Models.deps.json
+C:\Users\user\Desktop\AppProduct\AppProduct.Models\bin\Debug\net5.0\AppProduct.Models.dll
+C:\Users\user\Desktop\AppProduct\AppProduct.Models\bin\Debug\net5.0\ref\AppProduct.Models.dll
+C:\Users\user\Desktop\AppProduct\AppProduct.Models\bin\Debug\net5.0\AppProduct.Models.pdb
+C:\Users\user\Desktop\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.AssemblyInfo.cs
+C:\Users\user\Desktop\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.dll
+C:\Users\user\Desktop\AppProduct\AppProduct.Models\obj\Debug\net5.0\ref\AppProduct.Models.dll
+C:\Users\user\Desktop\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.pdb
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Models\bin\Debug\net5.0\AppProduct.Models.deps.json
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Models\bin\Debug\net5.0\AppProduct.Models.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Models\bin\Debug\net5.0\AppProduct.Models.pdb
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.csproj.AssemblyReference.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.AssemblyInfoInputs.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.AssemblyInfo.cs
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Models\obj\Debug\net5.0\refint\AppProduct.Models.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Models\obj\Debug\net5.0\AppProduct.Models.pdb
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppProduct\AppProduct.Models\obj\Debug\net5.0\ref\AppProduct.Models.dll

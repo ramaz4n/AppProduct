@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfBasketDto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BasketDto>
+    <Id>18d6a32b-6b0c-41e2-abb2-b7c0626774d3</Id>
+    <ProductId>111 222 333</ProductId>
+    <Count>5</Count>
+    <ClientId>2324456</ClientId>
+  </BasketDto>
+</ArrayOfBasketDto>

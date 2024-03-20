@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfClientDto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ClientDto>
+    <Name>Катя</Name>
+    <Id>b085950f-c283-4544-8992-e19968c33b13</Id>
+    <PassportData> 11 11 11</PassportData>
+  </ClientDto>
+  <ClientDto>
+    <Name>Юля</Name>
+    <Id>90292128-bff6-40bf-bc18-8e10ef3aeed6</Id>
+    <PassportData>11 22 33</PassportData>
+  </ClientDto>
+</ArrayOfClientDto>
